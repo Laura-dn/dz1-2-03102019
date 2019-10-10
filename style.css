@@ -1,0 +1,36 @@
+div {
+    width: 50%;
+    margin: 0 auto;
+}
+
+h3 {
+    text-align: center;
+}
+
+#italicStyle, #smallText {
+    text-align: right;
+}
+
+#smallText {
+    font-size: 0.7em;
+}
+
+.firstLetter:first-letter {
+    font-weight: bold;
+}
+
+.first {
+    color: #6c6c6c;
+}
+
+.second {
+    color: #9dadb2;
+}
+
+.third {
+    color: #b4b4b4;
+}
+
+.fourth {
+    color: #e5e8ea;
+}
